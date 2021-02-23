@@ -23,6 +23,7 @@ define('BUTTONZ_MINIMUM_ELEMENTOR_VERSION', '2.5.0');
 define('BUTTONZ_PATH', plugin_dir_path(__FILE__));
 define('BUTTONZ_URL', plugin_dir_url(__FILE__));
 
+require_once __DIR__ . '/vendor/autoload.php';
 require_once BUTTONZ_PATH . 'includes/elementor-checker.php';
 require_once BUTTONZ_PATH . 'includes/extras.php';
 require_once BUTTONZ_PATH . 'includes/hover-animation.php';
@@ -217,3 +218,24 @@ class ButtonZ {
 }
 
 ButtonZ::get_instance();
+
+
+/**
+ * Initialize the plugin tracker
+ *
+ * @return void
+ */
+function appsero_init_tracker_buttonz() {
+
+    if ( ! class_exists( 'Appsero\Client' ) ) {
+        require_once __DIR__ . '/vendor/appsero/client/src/Client.php';
+    }
+
+    $client = new Appsero\Client( '80230a82-c292-450e-9441-84bef7ed6ba6', 'ButtonZ &#8211; Elementor Addon', __FILE__ );
+
+    // Active insights
+    $client->insights()->init();
+
+}
+
+appsero_init_tracker_buttonz();
