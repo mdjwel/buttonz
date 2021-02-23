@@ -1,0 +1,310 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: ButtonZ\n"
+"POT-Creation-Date: 2021-02-21 23:01+0600\n"
+"PO-Revision-Date: 2021-02-21 23:00+0600\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: buttonz.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.min.js\n"
+
+#: buttonz.php:92
+msgid "Elegant Icons"
+msgstr ""
+
+#: buttonz.php:138
+msgid "ButtonZ : Title"
+msgstr ""
+
+#: buttonz.php:181
+msgid ""
+"Enjoying our <strong>ButtonZ - Elementor Addon?</strong> We hope you liked "
+"it! If you feel this plugin helped you, You can give us a 5 star rating!"
+"<br>It will motivate us to serve you more !"
+msgstr ""
+
+#: buttonz.php:182
+msgid "Already Done"
+msgstr ""
+
+#: includes/icons.php:18
+msgid "Elegant - Icons"
+msgstr ""
+
+#: widgets/Button.php:29
+msgid "ButtonZ Button"
+msgstr ""
+
+#: widgets/Button.php:48
+msgid "Button"
+msgstr ""
+
+#: widgets/Button.php:55
+msgid "Button Type"
+msgstr ""
+
+#: widgets/Button.php:58
+msgid "Default"
+msgstr ""
+
+#: widgets/Button.php:59
+msgid "Line Button"
+msgstr ""
+
+#: widgets/Button.php:60
+msgid "3D Fold Bottom"
+msgstr ""
+
+#: widgets/Button.php:61
+msgid "3d Fold Top"
+msgstr ""
+
+#: widgets/Button.php:71
+msgid "Button Title"
+msgstr ""
+
+#: widgets/Button.php:81
+msgid "Link"
+msgstr ""
+
+#: widgets/Button.php:86
+msgid "https://your-link.com"
+msgstr ""
+
+#: widgets/Button.php:96
+msgid "Alignment"
+msgstr ""
+
+#: widgets/Button.php:100
+msgid "Left"
+msgstr ""
+
+#: widgets/Button.php:104
+msgid "Center"
+msgstr ""
+
+#: widgets/Button.php:108
+msgid "Right"
+msgstr ""
+
+#: widgets/Button.php:112
+msgid "Justified"
+msgstr ""
+
+#: widgets/Button.php:124
+msgid "Size"
+msgstr ""
+
+#: widgets/Button.php:128
+msgid "Extra Small"
+msgstr ""
+
+#: widgets/Button.php:129
+msgid "Small"
+msgstr ""
+
+#: widgets/Button.php:130
+msgid "Medium"
+msgstr ""
+
+#: widgets/Button.php:131
+msgid "Large"
+msgstr ""
+
+#: widgets/Button.php:132
+msgid "Extra Large"
+msgstr ""
+
+#: widgets/Button.php:146 widgets/Button.php:437
+msgid "Button Icon"
+msgstr ""
+
+#: widgets/Button.php:153
+msgid "Icon Type"
+msgstr ""
+
+#: widgets/Button.php:157
+msgid "Font Icon"
+msgstr ""
+
+#: widgets/Button.php:158
+msgid "Image"
+msgstr ""
+
+#: widgets/Button.php:166
+msgid "Icon"
+msgstr ""
+
+#: widgets/Button.php:178
+msgid "Image Icon"
+msgstr ""
+
+#: widgets/Button.php:189
+msgid "Icon Position"
+msgstr ""
+
+#: widgets/Button.php:193
+msgid "Before"
+msgstr ""
+
+#: widgets/Button.php:194
+msgid "After"
+msgstr ""
+
+#: widgets/Button.php:202
+msgid "Icon Spacing"
+msgstr ""
+
+#: widgets/Button.php:219
+msgid "Hover Animation"
+msgstr ""
+
+#: widgets/Button.php:234
+msgid "3D Settings"
+msgstr ""
+
+#: widgets/Button.php:244
+msgid "Action State"
+msgstr ""
+
+#: widgets/Button.php:245
+msgid "Select the transition action state."
+msgstr ""
+
+#: widgets/Button.php:249 widgets/Button.php:338 widgets/Button.php:608
+msgid "Hover"
+msgstr ""
+
+#: widgets/Button.php:250
+msgid "Click"
+msgstr ""
+
+#: widgets/Button.php:263
+msgid "Button Effects"
+msgstr ""
+
+#: widgets/Button.php:273
+msgid "Hover Effect"
+msgstr ""
+
+#: widgets/Button.php:289
+msgid "Style Button"
+msgstr ""
+
+#: widgets/Button.php:307 widgets/Button.php:576
+msgid "Normal"
+msgstr ""
+
+#: widgets/Button.php:314 widgets/Button.php:345
+msgid "Text Color"
+msgstr ""
+
+#: widgets/Button.php:327 widgets/Button.php:359 widgets/Button.php:515
+msgid "Background Color"
+msgstr ""
+
+#: widgets/Button.php:376
+msgid "Padding"
+msgstr ""
+
+#: widgets/Button.php:395
+msgid "Style 3D Button"
+msgstr ""
+
+#: widgets/Button.php:406
+msgid "Underneath Fold Color"
+msgstr ""
+
+#: widgets/Button.php:418
+msgid "Shadow Color"
+msgstr ""
+
+#: widgets/Button.php:445
+msgid "Icon Size"
+msgstr ""
+
+#: widgets/Button.php:461
+msgid "Icon Box Size"
+msgstr ""
+
+#: widgets/Button.php:462
+msgid ""
+"The icon box size is square. Will apply the same size on Height and Width."
+msgstr ""
+
+#: widgets/Button.php:478
+msgid "Margin"
+msgstr ""
+
+#: widgets/Button.php:479
+msgid ""
+"Margin around the icon. You can use margin values to position the icon along "
+"with the text correctly."
+msgstr ""
+
+#: widgets/Button.php:491 widgets/Button.php:546
+msgid "Border Radius"
+msgstr ""
+
+#: widgets/Button.php:503
+msgid "Icon Color"
+msgstr ""
+
+#: widgets/Button.php:530
+msgid "Border"
+msgstr ""
+
+#: widgets/Button.php:559
+msgid "Bottom Line"
+msgstr ""
+
+#: widgets/Button.php:561
+msgid "Yes"
+msgstr ""
+
+#: widgets/Button.php:562
+msgid "No"
+msgstr ""
+
+#: widgets/Button.php:591 widgets/Button.php:637
+msgid "Bottom Line Color"
+msgstr ""
+
+#: widgets/Button.php:623
+msgid "Border Color"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "ButtonZ"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://wordpress.org/plugins/buttonz"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"ButtonZ is a powerful plugin for creating any kind of button that you can "
+"imagine with Elementor."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Spider Themes"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://spider-themes.net"
+msgstr ""
