@@ -86,3 +86,6 @@ Learn more about how [Appsero collects and uses this data](https://appsero.com/p
 = 1.0.1 - 22/02/2021 =
 - New: Language file (.pot) added in the languages folder.
 - Fixed: Text domain
+
+= 1.0.2 - 24/02/2021 =
+- New: Appsero integrated

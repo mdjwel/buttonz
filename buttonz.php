@@ -8,7 +8,7 @@
  * Requires PHP:      5.6
  * Requires at least: 4.7
  * Tested up to:      5.5
- * Version:     	  1.0.1
+ * Version:     	  1.0.2
  * License: 		  GPL v3
  * Text Domain: 	  buttonz
  * Domain Path: 	  /languages
